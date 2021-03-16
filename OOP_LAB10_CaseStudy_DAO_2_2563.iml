@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="OOP_LAB10_CaseStudy_DAO_2_2563" level="project" />
+    <orderEntry type="library" name="sqlite-jdbc-3.21.0" level="project" />
   </component>
 </module>
